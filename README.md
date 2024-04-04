@@ -41,8 +41,10 @@ class subject(models.Model):
 
 ## OUTPUT
 
-![output](./image1.png)
-![output](./image2.png)
-![output](./image3.png)
+![output](./img1.png)
+
+![output](./img2.png)
+
+![output](./img3.png)
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
